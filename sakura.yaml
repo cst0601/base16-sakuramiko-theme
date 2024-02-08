@@ -1,0 +1,19 @@
+scheme: "Sakura Miko Dark"
+author: "Chikuma (http://github.com/chikuma0601)"
+base00: "181818"
+base01: "363131"
+base02: "574e4d"
+base03: "7b6c6b"
+base04: "beb8b8"  # miko pink 1
+base05: "ffc3c3"
+base06: "ffcccc"
+base07: "ffd6d6"
+
+base08: "ffd6d6"  # light color
+base09: "ff8fdf"  # miko pink 2
+base0A: "e7ce73"  # cat bell yellow
+base0B: "e8ff72"  # eye bright green-yellow
+base0C: "ff8fdf"  # miko pink 2
+base0D: "5ab3f4"  # blue 1
+base0E: "e40542"  # miko red
+base0F: "ffd6d6"  # light color
